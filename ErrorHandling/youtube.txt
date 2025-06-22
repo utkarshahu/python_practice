@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Chai or Code",
+        "time": "11 hours"
+    },
+    {
+        "name": "Python Crash Course",
+        "time": "2 hours"
+    },
+    {
+        "name": "JavaScript for Beginners",
+        "time": "1 hour 30 minutes"
+    },
+    {
+        "name": "MongoDB Tutorial",
+        "time": "45 minutes"
+    },
+    {
+        "name": "React Hooks Explained",
+        "time": "1 hour 15 minutes"
+    },
+    {
+        "name": "Node.js Full Guide",
+        "time": "3 hours"
+    }
+]
